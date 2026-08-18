@@ -11,7 +11,7 @@ dependencies:
   - shinywidgets
   - anywidget
   - altair
-  - yaml
+  - pyyaml
   - pip:
       - shinylive
       - rsconnect
