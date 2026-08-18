@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+
+editor:
+  render-on-save: true
+
+execute:
+  freeze: auto
+
+website:
+  # title: "Harrison's Website"
+  back-to-top-navigation: true
+  sidebar:
+    - id: japan
+      title: 日本行
+      style: floating
+      contents: 
+        - japan/japan.qmd
+        - japan/miyazaki2025/miyazaki.qmd
+        - japan/tokyo/tokyo.qmd
+    - id: japan-miyazaki
+      title: 宮崎
+      style: floating
+      contents:
+        - japan/japan.qmd
+        - section: "宮崎"
+          contents: 
+            - japan/miyazaki2025/miyazaki.qmd
+            - section: "行程"
+              contents: 
+              - japan/miyazaki2025/星期一.qmd
+              - japan/miyazaki2025/星期二.qmd
+              - japan/miyazaki2025/星期三.qmd
+              - japan/miyazaki2025/星期四.qmd
+            - japan/miyazaki2025/景點.qmd
+            - japan/miyazaki2025/food.qmd
+    
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+      # - cosmo
+      # - brand
+    css: styles.css
+    toc: true
+
+
+

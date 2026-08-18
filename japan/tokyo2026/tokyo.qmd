@@ -1,0 +1,7 @@
+---
+title: "東京"
+format:
+  html:
+    navbar: false
+    sidebar: japan-tokyo
+---

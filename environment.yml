@@ -1,0 +1,17 @@
+name: github-website-quarto
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pandas
+  - numpy
+  - matplotlib
+  - shiny
+  - shinywidgets
+  - anywidget
+  - altair
+  - pip:
+      - shinylive
+      - rsconnect
+      - leafmap

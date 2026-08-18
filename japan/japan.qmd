@@ -1,0 +1,18 @@
+---
+title: 日本行
+format:
+    html:
+        navbar: false
+        sidebar: japan
+---
+
+# 地點
+
+## 九州
+- [宮崎](miyazaki2025/miyazaki.qmd)
+- [宮崎](tokyo/tokyo.qmd)
+
+
+::: {.callout-tip}
+建議使用平板或筆電瀏覽網頁以獲得最佳使用者體驗
+:::
