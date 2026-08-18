@@ -1,0 +1,30 @@
+---
+title: "Day 13 | 9月02日（三）: 質感生活與海濱夜景（中目黑、自由之丘、台場）"
+date: "2026-09-02"
+format:
+  html:
+    navbar: false
+    sidebar: japan-tokyo
+---
+
+::: {.callout-note collapse="false"}
+## 每日概要
+* 住宿飯店: [品川王子大飯店](https://maps.app.goo.gl/3WeCmk6m2uXkhMsb7)
+* 行程主題: 中目黑星巴克旗艦店、自由之丘甜點與台場海濱公園夜景
+:::
+
+
+## 詳細行程安排
+
+### 上午: 中目黑 (Nakameguro)
+* 交通: 品川搭山手線至惠比壽轉日比谷線至中目黑。
+* 景點: 目黑川沿岸散步、星巴克臻選®東京烘焙工坊 (Starbucks Reserve Roastery)。
+
+### 下午: 自由之丘 (Jiyugaoka)
+* 交通: 從中目黑搭乘東急東橫線直達自由之丘。
+* 景點: 雜貨小店、La Vita 廣場、日式甜點屋。
+
+### 晚上: 台場 (Odaiba) 海濱公園
+* 交通: 搭乘臨海線 (Rinkai Line) 直達台場。
+* 景點: 獨角獸鋼彈、彩虹大橋與自由女神夜景、DiverCity 購物中心。
+* 返程: 臨海線直達大崎轉山手線返回品川。

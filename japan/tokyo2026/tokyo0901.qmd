@@ -1,0 +1,30 @@
+---
+title: "Day 12 | 9月01日（二）: 港區摩天夜景（六本木、麻布台 Hills、東京鐵塔）"
+date: "2026-09-01"
+format:
+  html:
+    navbar: false
+    sidebar: japan-tokyo
+---
+
+::: {.callout-note collapse="false"}
+## 每日概要
+* 住宿飯店: [品川王子大飯店](https://maps.app.goo.gl/3WeCmk6m2uXkhMsb7)
+* 行程主題: 麻布台 Hills 最新地標、六本木藝術三角與東京鐵塔夜景
+:::
+
+
+## 詳細行程安排
+
+### 下午: 麻布台 Hills (Azabudai Hills)
+* 交通: 品川站搭乘山手線至惠比壽轉乘日比谷線至神谷町站直達。
+* 景點: 
+  * 麻布台 Hills 散策。
+  * teamLab Borderless 數位藝術美術館（建議提前預約門票）。
+
+### 傍晚 / 晚上: 六本木 Hills & 東京鐵塔
+* 景點: 
+  * 六本木 Hills (Roppongi Hills) Tokyo City View 展望台。
+  * 芝公園散步捕捉東京鐵塔點燈夜景。
+* 美食: 六本木燒肉、敘敘苑景觀燒肉或麻布十番在地美食。
+* 返程: 搭乘地鐵/JR 返回品川王子飯店。

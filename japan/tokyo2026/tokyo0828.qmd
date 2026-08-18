@@ -1,0 +1,29 @@
+---
+title: "Day 08 | 8月28日（五）: 潮流與現代藝術（澀谷、原宿、表參道）"
+date: "2026-08-28"
+format:
+  html:
+    navbar: false
+    sidebar: japan-tokyo
+---
+
+::: {.callout-note collapse="false"}
+## 每日概要
+* 住宿飯店: [錦糸町京成 Richmond 飯店](https://maps.app.goo.gl/qkufpqk61i8YrpCH6)
+* 行程主題: 明治神宮、原宿竹下通、表參道建築散策與澀谷夜景
+:::
+
+
+## 詳細行程安排
+
+### 上午: 明治神宮 & 原宿竹下通
+* 交通: 錦糸町搭乘半藏門線直達澀谷/表參道，或搭 JR 至原宿站。
+* 景點: 明治神宮森林參道、原宿竹下通潮流小店。
+
+### 下午: 表參道與貓街散策
+* 景點: 表參道 Hills、建築美學名店、貓街 (Cat Street) 獨立品牌店。
+* 下午茶: 表參道人氣咖啡館或甜點店。
+
+### 晚上: 澀谷 (Shibuya) & Shibuya Sky
+* 景點: 澀谷十字路口、Shibuya Sky 360 度高空展望台看落日與夜景。
+* 返程: 澀谷站直接搭乘東京 Metro 半藏門線，一車直達錦糸町。
