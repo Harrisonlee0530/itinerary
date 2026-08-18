@@ -11,6 +11,7 @@ execute:
 website:
   # title: "Harrison's Website"
   back-to-top-navigation: true
+  page-navigation: true
   sidebar:
     - id: japan
       title: 日本行
