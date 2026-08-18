@@ -81,6 +81,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -482,7 +511,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>交通: 6:50 <a href="https://maps.app.goo.gl/Mv8mb5rB8qBw8Sh87">從品川站搭乘 JR 橫須賀線直達鎌倉站</a>（約 1hr，免換車）</li>
 <li>08:00 到<a href="https://maps.app.goo.gl/37fqkXP5FHdeh6Rb7">鎌倉站</a></li>
-<li>票券建議: 於鎌倉站購買「江之電一日券 (Noriorikun)」。</li>
+<li><strong>搭江之電 Enoden Line (鐮倉 <span class="math inline">\(\leftrightarrow\)</span> 長谷 <span class="math inline">\(\leftrightarrow\)</span> 鎌倉高校前 <span class="math inline">\(\leftrightarrow\)</span> 江之島)</strong></li>
 </ul>
 </section>
 <section id="鎌倉-江之島精華景點" class="level3">
