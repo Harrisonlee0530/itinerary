@@ -1,0 +1,9 @@
+---
+title: 更多景點
+format:
+    html:
+        navbar: false
+        sidebar: japan-tokyo
+---
+
+### [すみだ北斎美術館](https://maps.app.goo.gl/zXQJLPKAQbhFQx8g6)

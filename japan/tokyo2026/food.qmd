@@ -1,0 +1,17 @@
+---
+title: 食之時
+format:
+    html:
+        navbar: false
+        sidebar: japan-tokyo
+---
+
+## 錦糸町
+
+### [中華そば 満鶏軒](https://maps.app.goo.gl/dGytXbzVqf8GdzVk8): 
+* 11am - 9pm
+
+### [錦糸町中華そば さん式](https://maps.app.goo.gl/5gk7khNn9sa4RaZZ8)
+* 11am - 2:40pm, 5:30 - 9:10pm
+* 六日: 11am - 9pm
+* 週一公休
