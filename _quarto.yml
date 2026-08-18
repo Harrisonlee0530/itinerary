@@ -35,7 +35,31 @@ website:
               - japan/miyazaki2025/星期四.qmd
             - japan/miyazaki2025/景點.qmd
             - japan/miyazaki2025/food.qmd
-    
+    - id: japan-tokyo
+      title: 東京
+      style: floating
+      contents:
+        - japan/japan.qmd
+        - section: "東京"
+          contents:
+            - japan/tokyo2026/tokyo.qmd
+            - section: "行程"
+              contents:
+                - japan/tokyo2026/tokyo0821.qmd
+                - japan/tokyo2026/tokyo0822.qmd
+                - japan/tokyo2026/tokyo0823.qmd
+                - japan/tokyo2026/tokyo0824.qmd
+                - japan/tokyo2026/tokyo0825.qmd
+                - japan/tokyo2026/tokyo0826.qmd
+                - japan/tokyo2026/tokyo0827.qmd
+                - japan/tokyo2026/tokyo0828.qmd
+                - japan/tokyo2026/tokyo0829.qmd
+                - japan/tokyo2026/tokyo0830.qmd
+                - japan/tokyo2026/tokyo0831.qmd
+                - japan/tokyo2026/tokyo0901.qmd
+                - japan/tokyo2026/tokyo0902.qmd
+                - japan/tokyo2026/tokyo0903.qmd
+                - japan/tokyo2026/tokyo0904.qmd
 
 format:
   html:
@@ -46,6 +70,3 @@ format:
       # - brand
     css: styles.css
     toc: true
-
-
-
