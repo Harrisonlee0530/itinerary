@@ -18,7 +18,7 @@ website:
       contents: 
         - japan/japan.qmd
         - japan/miyazaki2025/miyazaki.qmd
-        - japan/tokyo/tokyo.qmd
+        - japan/tokyo2026/tokyo.qmd
     - id: japan-miyazaki
       title: 宮崎
       style: floating
