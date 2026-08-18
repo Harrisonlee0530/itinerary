@@ -12,6 +12,9 @@ dependencies:
   - anywidget
   - altair
   - pyyaml
+  - nbformat
+  - nbclient
+  - ipykernel
   - pip:
       - shinylive
       - rsconnect
