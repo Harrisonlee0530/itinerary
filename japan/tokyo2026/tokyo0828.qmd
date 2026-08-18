@@ -1,5 +1,5 @@
 ---
-title: "Day 08 | 8月28日（五）: 潮流與現代藝術（原宿、表參道、澀谷）"
+title: "Day 08 | 8月28日（五）: 原宿, 表參道, 澀谷"
 date: "2026-08-28"
 format:
   html:
@@ -14,21 +14,24 @@ format:
 :::
 
 
-## 詳細行程安排
+## 行程
 
 ### 上午: 明治神宮 & 原宿竹下通
-* 交通: 錦糸町搭乘半藏門線直達澀谷/表參道，或搭 JR 至原宿站。
-* 景點: 明治神宮森林參道、原宿竹下通潮流小店。
+* [明治神宮](https://maps.app.goo.gl/yovN2PPvk1ihdUvdA)森林參道
+* [原宿竹下通](https://maps.app.goo.gl/8BCP88E5ZxFcFhdM9)潮流小店
 
-### 下午: 表參道 (Omotesando) 建築與貓街散策
-* 景點: 
-  * 安藤忠雄設計之 表參道 Hills (Omotesando Hills)。
-  * 沿途欣賞妹島和世設計之 Christian Dior 旗艦店、伊東豊雄設計之 TOD'S 大樓等國際建築大師作品。
-  * 漫步貓街 (Cat Street) 探索獨立潮牌與質感咖啡館。
+### 下午: 表參道 (Omotesando) 建築與貓街
+* 安藤忠雄設計之 [表參道 Hills](https://maps.app.goo.gl/J7XYGWKq4gfyAouv5) (Omotesando Hills)。
+* 漫步[貓街](https://maps.app.goo.gl/x2qquioorCGGUKPy7) 探索獨立潮牌與質感咖啡館。
+* [Mesh Tokyo](https://maps.app.goo.gl/GsxZjzxSB4LprZ1i8) 劍玉店
 
-### 晚上: 澀谷 (Shibuya) 潮流巡禮與夜景
-* 景點: 
-  * 澀谷十字路口 (Shibuya Scramble Crossing) & 忠犬八公像。
-  * Shibuya Sky: 登頂 47 樓露天高空展望台，俯瞰 360 度夕陽與東京夜景。
-  * 逛 Shibuya Stream、MIYASHITA PARK (宮下公園) 與 澀谷 PARCO (Nintendo TOKYO)。
-* 返程: 澀谷站直接搭乘東京 Metro 半藏門線，一車直達錦糸町。
+#### 其他行程
+* [https://www.gltjp.com/zh-hant/article/item/20253/](https://www.gltjp.com/zh-hant/article/item/20253/)
+
+### 晚上: 澀谷 (Shibuya) 潮流與夜景
+* [澀谷十字路口](https://maps.app.goo.gl/one4voX85dDgjdUW7) (Shibuya Scramble Crossing) & [忠犬八公像](https://maps.app.goo.gl/wKSgRDbRaT1iiQWXA)。
+* [Shibuya Sky](https://maps.app.goo.gl/D2XujXx528euvsNL9): 登頂 47 樓露天高空展望台，俯瞰 360 度夕陽與東京夜景。
+* [Shibuya Stream](https://maps.app.goo.gl/ZnVbAkNVjbKN1o7e9) (mall)
+* [MIYASHITA PARK (宮下公園)](https://maps.app.goo.gl/6x7sZwZ6fZz33A469) (mall)
+* [澀谷 PARCO](https://maps.app.goo.gl/7oAdA7RPz4L7EyJu9)
+  * [Nintendo TOKYO](https://maps.app.goo.gl/GoKwtRfYHMjpyYV47)

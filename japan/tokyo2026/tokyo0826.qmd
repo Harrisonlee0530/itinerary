@@ -14,19 +14,17 @@ format:
 :::
 
 
-## 詳細行程安排
+## 行程
 
 ### 上午: 錦糸町 -> 川越
-* 交通路線: 
-  * 錦糸町搭乘 JR 總武線快速/中央線至新宿站。
-  * 於西武新宿站搭乘西武新宿線特急 (Red Arrow) 至本川越站；或於新宿站搭 JR 埼京線直達川越站。
+* [川越駅](https://maps.app.goo.gl/cuLuGxGe3LQgqjSo6) ([路線](https://maps.app.goo.gl/qQksrUWCVAxWBzAH8), 1 hr 20 min)
 
-### 白天: 川越重點景點
-* 川越冰川神社: 以結緣鯛魚籤與風鈴廊下（夏季限定）聞名。
-* 川越時之鐘 (Toki no Kane): 小江戶象徵地標。
-* 藏造老街 (Kurazukuri Zone): 黑磚瓦江戶時代建築群。
-* 菓子屋橫丁: 懷舊古早味糖果小吃街。
+### 川越重點景點
+* [川越冰川神社](https://maps.app.goo.gl/kFiyvgkKXYD7i2wAA): 以結緣鯛魚籤與風鈴廊下（夏季限定）聞名。
+* [川越時之鐘](https://maps.app.goo.gl/QNjAiZkY1QJF79aM8) (Toki no Kane): 小江戶象徵地標。
+* [藏造老街](https://maps.app.goo.gl/W3WbFoJtB9B5Zvpx9) (Kurazukuri Zone): 黑磚瓦江戶時代建築群。
+* [菓子屋橫丁](https://maps.app.goo.gl/GXgX8ZRNZwAwHwQ66): 懷舊古早味糖果小吃街。
 * 美食: 川越鰻魚飯（小川菊/小川藤）、紫薯霜淇淋、地薯點心。
 
-### 晚上: 返程錦糸町
-* 原路返回新宿/東京，轉乘 JR 回錦糸町飯店。
+### 晚上
+* 原路返回

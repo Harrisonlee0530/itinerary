@@ -1,5 +1,5 @@
 ---
-title: "Day 02 | 8月22日（六）: 輕井澤一日遊（Klook跟團）"
+title: "Day 02 | 8月22日（六）: 輕井澤一日遊（KKday跟團）"
 date: "2026-08-22"
 format:
   html:
@@ -9,25 +9,20 @@ format:
 
 ::: {.callout-note collapse="false"}
 ## 每日概要
-* 住宿飯店: [錦糸町京成 Richmond 飯店](https://maps.app.goo.gl/qkufpqk61i8YrpCH6)
-* 行程主題: Klook / KKday 輕井澤一日遊跟團
+日本東京近郊輕井澤一日遊｜白絲瀑布・雲場池・舊輕井澤銀座通・輕井澤王子Outlet｜新宿出發
 :::
 
+## 行程
 
-## 詳細行程安排
-
-### 全天: Klook 輕井澤一日遊跟團行程
-* 集合地點與時間: 依跟團憑證指定地點集合（通常為新宿站或東京站周邊，約 07:30 - 08:00）。
-* 錦糸町至集合點交通: 
-  * 若在新宿集合: 搭乘 JR 中央·總武線直達新宿（約 20 分鐘）。
-  * 若在東京站集合: 搭乘 JR 總武線快速直達東京站（約 8 分鐘）。
-
-### 跟團主要景點（依旅行社實際行程為準）
-* 雲場池: 漫步湖畔，欣賞森林倒影。
-* 舊輕井澤銀座通: 漫步歷史商店街，品嚐在地果醬、麵包與小吃。
-* 輕井澤高原教會 / 石之教堂 / 榆樹街小鎮: 感受北歐風格木造與石造建築之美。
-* 輕井澤王子購物廣場 (Outlet): 自由購物採買精品與戶外用品。
-
-### 晚上: 返回東京與錦糸町
-* 專車送回東京指定解散地點。
-* 搭乘 JR 快速返回錦糸町飯店休息。
+* 行程時間：10 小時
+* 06:50 前去搭車 [路線](https://maps.app.goo.gl/8R7jpuYR7QRYzDYX9)
+* 07:40 [新宿 i-Land Tower 前 LOVE 雕塑前](https://maps.app.goo.gl/Egd3yMUktmJKMhDW6) 集合
+* 08:00 出發
+* 10:30 [白糸の滝](https://maps.app.goo.gl/PebJN9hpJ3mf9qbE7) (30 分鐘)
+  * （如因天候因素，導致無法前往白絲瀑布，則改為前往[熊野皇大神社](https://maps.app.goo.gl/mKtPqhk5EMHVGqiY6)）
+* [雲場池](https://maps.app.goo.gl/qkgek532wJgmz44m6) (20 min)
+* [旧軽井沢銀座商店街](https://maps.app.goo.gl/tpud6x2sgoQYmS8k7) (1 hr 30 min)
+* 自由午餐
+* [輕井澤王子購物廣場](https://maps.app.goo.gl/WUDkyWKfe4HHPcgD8) (1 hr 30 min)
+* 15:00 返程
+* 新宿解散（預計約 18:00 - 19:00 抵達原集合地）

@@ -1,5 +1,5 @@
 ---
-title: "Day 12 | 9月01日（二）: 港區摩天夜景與藝術散策（六本木、麻布台 Hills、東京鐵塔）"
+title: "Day 12 | 9月01日（二）: 六本木, 麻布台 Hills, 東京鐵塔"
 date: "2026-09-01"
 format:
   html:
@@ -14,22 +14,13 @@ format:
 :::
 
 
-## 詳細行程安排
+## 行程
 
-### 下午: 麻布台 Hills (Azabudai Hills)
-* 交通: 品川站搭乘山手線至惠比壽轉乘日比谷線至神谷町站直達。
-* 景點: 
-  * 麻布台 Hills 建築散策。
-  * teamLab Borderless 數位藝術美術館（建議提前預約門票）。
-
-### 傍晚: 六本木美術館藝術散策 (Roppongi Art Triangle)
-* 景點: 
-  * 國立新美術館 (The National Art Center, Tokyo): 由黑川紀章設計，擁有波浪狀玻璃外牆與優雅展覽空間。
-  * 森美術館 (Mori Art Museum): 位於六本木 Hills 53 樓，展示現代頂尖藝術創作。
-
-### 晚上: 六本木夜景與東京鐵塔
-* 景點: 
-  * 六本木 Hills (Roppongi Hills) Tokyo City View 展望台: 欣賞包含東京鐵塔與東京市區的經典絕美夜景。
-  * 芝公園散步捕捉東京鐵塔點燈夜景。
-* 美食: 六本木燒肉、敘敘苑景觀燒肉或麻布十番在地美食。
-* 返程: 搭乘地鐵/JR 返回品川王子飯店。
+* [麻布台 Hills](https://maps.app.goo.gl/LqcEDia5ydwBob1L9)
+* [森美術館](https://maps.app.goo.gl/XqXdeF7pywYWtJi2A) **(10am - 5pm)**
+  * *位於六本木 Hills 53 樓*
+* [teamLab Borderless](https://maps.app.goo.gl/yEiafwWqjXQwe2BQ6) 數位藝術美術館（建議提前預約門票）(8:30am - 9pm)
+* [六本木 Hills](https://maps.app.goo.gl/ogDK9q1mKsxsjqyH7) 展望台: 欣賞包含東京鐵塔與東京市區的經典絕美夜景。
+* [國立新美術館](https://maps.app.goo.gl/dSZhFczg1CeyzLj4A) (The National Art Center, Tokyo): 由黑川紀章設計，擁有波浪狀玻璃外牆與優雅展覽空間。 
+  * 10am - 6pm, **週二公休**
+* [芝公園](https://maps.app.goo.gl/Ykrmo5gUJY8gjcoV6)散步捕捉東京鐵塔點燈夜景。

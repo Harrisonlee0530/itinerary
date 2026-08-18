@@ -1,5 +1,5 @@
 ---
-title: "Day 04 | 8月24日（一）: 東東京經典散策（墨田北齋美術館、淺草、晴空塔）"
+title: "Day 04 | 8月24日（一）: 墨田北齋美術館, 淺草, 晴空塔"
 date: "2026-08-24"
 format:
   html:
@@ -10,28 +10,23 @@ format:
 ::: {.callout-note collapse="false"}
 ## 每日概要
 * 住宿飯店: [錦糸町京成 Richmond 飯店](https://maps.app.goo.gl/qkufpqk61i8YrpCH6)
-* 行程主題: 墨田北齋美術館浮世繪巡禮、淺草寺歷史散策、東京晴空塔觀景與押上購物
+* 行程主題: 墨田北齋美術館浮世繪、淺草寺、東京晴空塔觀景與押上購物
 :::
 
 
-## 詳細行程安排
+## 行程
 
-### 上午: 墨田北齋美術館 (Sumida Hokusai Museum)
-* 交通: 錦糸町搭乘公車或徒歩/地鐵至兩國站附近的墨田北齋美術館。
+### 上午: [墨田北齋美術館](https://maps.app.goo.gl/ikKY7CtH1X61WG5C8)
 * 景點亮點: 
   * 建築名家妹島和世設計的極簡銀色幾何建築外觀。
   * 展出葛飾北齋經典浮世繪作品（如《富嶽三十六景》），深入了解江戶時代藝術文化。
 
 ### 中午 / 下午: 淺草寺與仲見世通
-* 交通: 從兩國搭乘大江戶線轉淺草線或搭乘公車抵達淺草。
-* 景點: 雷門、仲見世商店街、淺草寺本堂、觀音堂。
-* 美食: 淺草人形燒、花月堂菠蘿麵包、淺草今半壽喜燒或文字燒。
+* [雷門](https://maps.app.goo.gl/UhGftV1dQXFJHJct9)
+* [仲見世商店街](https://maps.app.goo.gl/ZMQoyq37adMAWCNm7)
+* [淺草寺](https://maps.app.goo.gl/FsPjKCAw1JvsydsJ8)/[淺草寺本堂](https://maps.app.goo.gl/wPNYFgbBxuSQ3emW8)
 
-### 下午 / 晚上: 東京晴空塔 (Tokyo Skytree) & Solamachi
-* 交通: 從淺草散步過吾妻橋（遠眺金色雲朵地標）或搭乘東武線 1 站至押上/晴空塔。
-* 景點: 
-  * 登頂晴空塔展望台（350m / 450m）俯瞰東京全景。
-  * 逛東京水町 (Tokyo Mizumachi) 與東京索拉町 (Solamachi) 購物中心。
-
-### 晚上: 返回錦糸町
-* 從押上搭乘東京 Metro 半藏門線，1 站（約 3 分鐘）即直達錦糸町。
+### 下午 / 晚上: 晴空塔 & Solamachi
+* [晴空塔](https://maps.app.goo.gl/QV1cXmc48Qp94mnP7)
+* [東京水町 Tokyo Mizumachi](https://maps.app.goo.gl/BQ814PoukkmoUdgj8) (mall)
+* [東京ソラマチ Tokyo Solamachi](https://maps.app.goo.gl/JHjYjLzTGR8Yki1dA) (mall)

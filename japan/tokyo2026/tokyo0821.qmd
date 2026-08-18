@@ -1,5 +1,5 @@
 ---
-title: "Day 01 | 8月21日（五）: 抵達東京 ‧ 錦糸町入住"
+title: "Day 01 | 8月21日（五）: 抵達東京, 錦糸町入住"
 date: "2026-08-21"
 format:
   html:
@@ -15,18 +15,26 @@ format:
 :::
 
 
-## 詳細行程安排
+## 行程
 
 ### 上午: 班機出發（星宇航空 JX314）
 * 07:30 抵達[台中機場](https://maps.app.goo.gl/zrhBMheSujTdVM8Q9) (RMQ) 第 2 航廈，辦理報到與託運行李。
 * 09:30 搭乘星宇航空 **JX314** 起飛前往東京成田機場 (NRT)。
 
 ### 下午: 成田機場入境 -> 錦糸町
-* 14:00 預計抵達[成田機場](https://maps.app.goo.gl/1wKeHkQ4V8NB31qr7?g_st=ic)第 2 航廈，辦理入境與提領行李。
+* 14:00 預計抵達[成田機場](https://maps.app.goo.gl/1wKeHkQ4V8NB31qr7)第 2 航廈，辦理入境與提領行李。
 * 交通方式: 
   * [Google Maps](https://maps.app.goo.gl/N6iBo2U3DK7WCz9N7) 錦糸町京成 Richmond 飯店 辦理入住或寄放行李。
 
 ### 傍晚 / 晚上: 錦糸町商圈與晚餐
-* [購物](shopping.qmd)
-* [美食](food.qmd)
-* [景點](attraction.qmd)
+* 購物
+  * [Arcakit](https://maps.app.goo.gl/1zTwPGBoUhcbT912A) (アルカキット錦糸町)
+  * [PARCO](https://maps.app.goo.gl/BsaUpYLPWPUUf7u57) (錦糸町PARCO)
+  * [Marui](https://maps.app.goo.gl/nPKzQoQrgoHc8Q916) (錦糸町マルイ)
+* 拉麵
+  * [中華そば 満鶏軒](https://maps.app.goo.gl/dGytXbzVqf8GdzVk8)
+    * 11am - 9pm
+  * [錦糸町中華そば さん式](https://maps.app.goo.gl/5gk7khNn9sa4RaZZ8)
+    * 11am - 2:40pm, 5:30 - 9:10pm
+    * 六日: 11am - 9pm
+    * 週一公休
