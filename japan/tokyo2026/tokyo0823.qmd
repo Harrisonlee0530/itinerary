@@ -1,8 +1,10 @@
 ---
-title: "Day 03 | 8月23日（日）: 伊豆大室山 & 城崎海岸一日遊（KKday跟團）"
+title: "Day 03 伊豆大室山 & 城崎海岸一日遊（KKday跟團）"
 date: "2026-08-23"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

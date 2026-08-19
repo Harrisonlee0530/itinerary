@@ -1,8 +1,10 @@
 ---
-title: "Day 13 | 9月02日（三）: 中目黑, 自由之丘, 台場"
+title: "Day 13 中目黑, 自由之丘, 台場"
 date: "2026-09-02"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

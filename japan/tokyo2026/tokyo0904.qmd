@@ -1,8 +1,10 @@
 ---
-title: "Day 15 | 9月04日（五）: 回家"
+title: "Day 15 回家"
 date: "2026-09-04"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

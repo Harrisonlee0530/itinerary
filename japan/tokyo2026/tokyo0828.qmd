@@ -1,8 +1,10 @@
 ---
-title: "Day 08 | 8月28日（五）: 原宿, 表參道, 澀谷"
+title: "Day 08 原宿, 表參道, 澀谷"
 date: "2026-08-28"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

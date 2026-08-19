@@ -1,8 +1,10 @@
 ---
-title: "Day 07 | 8月27日（四）: 東京站, 銀座"
+title: "Day 07 東京站, 銀座"
 date: "2026-08-27"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

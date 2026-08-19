@@ -1,8 +1,10 @@
 ---
-title: "Day 04 | 8月24日（一）: 墨田北齋美術館, 淺草, 晴空塔"
+title: "Day 04 墨田北齋美術館, 淺草, 晴空塔"
 date: "2026-08-24"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

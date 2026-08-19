@@ -1,8 +1,10 @@
 ---
-title: "Day 10 | 8月30日（日）: 飯店轉移（錦糸町 -> 品川）"
+title: "Day 10 飯店轉移（錦糸町 -> 品川）"
 date: "2026-08-30"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

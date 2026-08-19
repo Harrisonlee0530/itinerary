@@ -1,8 +1,10 @@
 ---
-title: "Day 06 | 8月26日（三）: 埼玉川越小江戶一日遊"
+title: "Day 06 埼玉川越小江戶一日遊"
 date: "2026-08-26"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

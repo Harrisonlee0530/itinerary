@@ -1,8 +1,10 @@
 ---
-title: "Day 11 | 8月31日（一）: 鎌倉, 江之島一日遊"
+title: "Day 11 鎌倉, 江之島一日遊"
 date: "2026-08-31"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

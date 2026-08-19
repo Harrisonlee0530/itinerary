@@ -1,8 +1,10 @@
 ---
-title: "Day 05 | 8月25日（二）: 上野, 池袋, 東京巨蛋城, (秋葉原)"
+title: "Day 05 上野, 池袋, 東京巨蛋城, (秋葉原)"
 date: "2026-08-25"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

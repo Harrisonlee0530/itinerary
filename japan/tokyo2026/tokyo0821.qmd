@@ -1,8 +1,10 @@
 ---
-title: "Day 01 | 8月21日（五）: 抵達東京"
+title: "Day 01 抵達東京"
 date: "2026-08-21"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Day 02 | 8月22日（六）: 輕井澤一日遊（KKday跟團）"
+title: "Day 02 輕井澤一日遊（KKday跟團）"
 date: "2026-08-22"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Day 14 | 9月03日（四）: 新宿都廳展望與最後補貨"
+title: "Day 14 新宿都廳展望與最後補貨"
 date: "2026-09-03"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

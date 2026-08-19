@@ -1,8 +1,10 @@
 ---
-title: "Day 09 | 8月29日（六）: 高圓寺阿波舞祭典（第一天）"
+title: "Day 09 高圓寺阿波舞祭典（第一天）"
 date: "2026-08-29"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---

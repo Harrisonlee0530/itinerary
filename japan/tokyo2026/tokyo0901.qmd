@@ -1,8 +1,10 @@
 ---
-title: "Day 12 | 9月01日（二）: 六本木, 麻布台 Hills, 東京鐵塔"
+title: "Day 12 六本木, 麻布台 Hills, 東京鐵塔"
 date: "2026-09-01"
+date-format: "MMM D, YYYY (ddd)"
 format:
   html:
+    published-title: ""
     navbar: false
     sidebar: japan-tokyo
 ---
