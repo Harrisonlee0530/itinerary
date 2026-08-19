@@ -1,5 +1,5 @@
 ---
-title: "Day 05 | 8月25日（二）: 上野, 池袋, 秋葉原"
+title: "Day 05 | 8月25日（二）: 上野, 池袋, 東京巨蛋城, (秋葉原)"
 date: "2026-08-25"
 format:
   html:
@@ -25,6 +25,13 @@ format:
 * [Sunshine City (太陽城)](https://maps.app.goo.gl/UGVL482gXwsfHFxs9): 大型購物中心，包含 Pokémon Center Mega Tokyo (寶可夢中心)、吉卜力橡子共和國等。
 * [Animate 池袋本店](https://maps.app.goo.gl/DKPzgKATJJPump239): 體驗流行次文化與購物。
 
-### 傍晚 / 晚上: 秋葉原 (Akihabara)
+### 傍晚 / 晚上: 東京巨蛋城
+* [東京巨蛋城](https://maps.app.goo.gl/A7Hu34Uaj73bKCzi7)
+  * 名偵探柯南廣場 (11:00 - 19:00)
+
+
+::: {.callout-note collapse="true"}
+#### 秋葉原
 * [秋葉原ラジオ会館 Radio Kaikan](https://maps.app.goo.gl/HGs2Xr4uPDkuF5VU7)
 * [Yodobashi Akiba](https://maps.app.goo.gl/qbidCm76F5v1JwKH9)
+:::
