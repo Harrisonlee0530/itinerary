@@ -17,14 +17,14 @@ format:
 ## 行程
 
 * 行程時間：10 小時
-* 06:50 前去搭車 [路線](https://maps.app.goo.gl/8R7jpuYR7QRYzDYX9)
-* 07:40 [新宿 i-Land Tower 前 LOVE 雕塑前](https://maps.app.goo.gl/Egd3yMUktmJKMhDW6) 集合
+* 06:50 前去搭車 [路線](https://www.google.com/maps/dir/Keisei+Richmond+Hotel+Tokyo+Kinshicho,+3+Chome-2-7+Kotobashi,+Sumida+City,+Tokyo+130-0022,+Japan/Robert+Indiana+Sculpture:+%22LOVE%22,+6+Chome-5-1+Nishishinjuku,+Shinjuku+City,+Tokyo+160-0023,+Japan/@35.6873235,139.7542971,13z/data=!3m1!5s0x60188cd697948c57:0x91396f1d50f81605!4m18!4m17!1m5!1m1!1s0x601888d88d1ab3bd:0x254b91a22fe762a!2m2!1d139.8149441!2d35.6936367!1m5!1m1!1s0x60188cd597f46cf9:0xfca7a2e19ce1fc7d!2m2!1d139.6942624!2d35.6928285!2m3!6e1!7e2!8j1787384400!3e3!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wKgBIAVAD&skid=ce1b673c-4096-4bf2-917d-4107ea3ec41c)
+* 07:40 [新宿 i-Land Tower 前 LOVE 雕塑前](https://www.google.com/maps?q=Robert+Indiana+Sculpture:+%22LOVE%22,+6+Chome-5-1+Nishishinjuku,+Shinjuku+City,+Tokyo+160-0023,+Japan&ftid=0x60188cd597f46cf9:0xfca7a2e19ce1fc7d&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247,100822499&g_ep=CAISEjI2LjMyLjUuOTU4MDQ3MzAzMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAkNB&skid=6111b43d-6f48-42f5-8a7e-cad66f4c4043) 集合
 * 08:00 出發
-* 10:30 [白糸の滝](https://maps.app.goo.gl/PebJN9hpJ3mf9qbE7) (30 分鐘)
-  * （如因天候因素，導致無法前往白絲瀑布，則改為前往[熊野皇大神社](https://maps.app.goo.gl/mKtPqhk5EMHVGqiY6)）
-* [雲場池](https://maps.app.goo.gl/qkgek532wJgmz44m6) (20 min)
-* [旧軽井沢銀座商店街](https://maps.app.goo.gl/tpud6x2sgoQYmS8k7) (1 hr 30 min)
+* 10:30 [白糸の滝](https://www.google.com/maps?q=Shiraito+Waterfall,+Nagakura,+Karuizawa,+Kitasaku+District,+Nagano+389-0111,+Japan&ftid=0x601dd8a5693d8b15:0xbddaade888287ab2&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247,100822499&g_ep=CAISEjI2LjMyLjUuOTU4MDQ3MzAzMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAkNB&skid=14f696bc-52c3-46fa-b801-0af48231c55c) (30 分鐘)
+  * （如因天候因素，導致無法前往白絲瀑布，則改為前往[熊野皇大神社](https://www.google.com/maps/place/Kumano+Kotai+Shrine/@36.3697512,138.6561863,17z/data=!3m1!4b1!4m6!3m5!1s0x601dd468fef9007b:0x3f39b933cf868492!8m2!3d36.3697512!4d138.6561863!16s%2Fg%2F122tps97!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=da1f3af2-1ebc-4bfa-a8fa-2f8c02167928)）
+* [雲場池](https://www.google.com/maps?q=Kumoba+Pond,+Karuizawa,+Kitasaku+District,+Nagano+389-0102,+Japan&ftid=0x601dd3cf7e2862e5:0x870923476d350c2f&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247,100822499&g_ep=CAISEjI2LjMyLjUuOTU4MDQ3MzAzMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAkNB&skid=db8bd5df-a626-4192-9a5e-52fbc915a25a) (20 min)
+* [旧軽井沢銀座商店街](https://www.google.com/maps?q=Old+Karuizawa+Ginza+Street,+878+Karuizawa,+Kitasaku+District,+Nagano+389-0102,+Japan&ftid=0x601dd24b6d670085:0xe2a82ba8020dbdd8&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247,100822499&g_ep=CAISEjI2LjMyLjUuOTU4MDQ3MzAzMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAkNB&skid=773c106a-b963-4bc6-9ecf-98254c8f6668) (1 hr 30 min)
 * 自由午餐
-* [輕井澤王子購物廣場](https://maps.app.goo.gl/WUDkyWKfe4HHPcgD8) (1 hr 30 min)
+* [輕井澤王子購物廣場](https://www.google.com/maps?q=Karuizawa+Prince+Shopping+Plaza,+Karuizawa,+Kitasaku+District,+Nagano+389-0102,+Japan&ftid=0x601dd37ba8d166b3:0xe8cbe5ae3d9b5e72&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247,100822499&g_ep=CAISEjI2LjMyLjUuOTU4MDQ3MzAzMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAkNB&skid=3b035c47-7ce4-4c8d-bc1b-f80bb7af3277) (1 hr 30 min)
 * 15:00 返程
 * 新宿解散（預計約 18:00 - 19:00 抵達原集合地）

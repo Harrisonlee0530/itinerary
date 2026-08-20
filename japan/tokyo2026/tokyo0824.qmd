@@ -1,5 +1,5 @@
 ---
-title: "Day 04 墨田北齋美術館, 淺草, 晴空塔"
+title: "Day 04 上野, 池袋, 東京巨蛋城, (秋葉原)"
 date: "2026-08-24"
 date-format: "MMM D, YYYY (ddd)"
 format:
@@ -11,24 +11,33 @@ format:
 
 ::: {.callout-note collapse="false"}
 ## 每日概要
-* 住宿飯店: [錦糸町京成 Richmond 飯店](https://maps.app.goo.gl/qkufpqk61i8YrpCH6)
-* 行程主題: 墨田北齋美術館浮世繪、淺草寺、東京晴空塔觀景與押上購物
+* 住宿飯店: [錦糸町京成 Richmond 飯店](https://www.google.com/maps/place/Keisei+Richmond+Hotel+Tokyo+Kinshicho/@35.6936367,139.8123638,17z/data=!3m1!4b1!4m9!3m8!1s0x601888d88d1ab3bd:0x254b91a22fe762a!5m2!4m1!1i2!8m2!3d35.6936367!4d139.8149441!16s%2Fg%2F11nxg6dvvq?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=b2886cee-634f-4466-8502-7977afab5202)
+* 行程主題: 上野公園 阿美橫町 池袋動漫商圈 秋葉原電器
 :::
 
 
 ## 行程
 
-### 上午: [墨田北齋美術館](https://maps.app.goo.gl/ikKY7CtH1X61WG5C8)
-* 景點亮點: 
-  * 建築名家妹島和世設計的極簡銀色幾何建築外觀。
-  * 展出葛飾北齋經典浮世繪作品（如《富嶽三十六景》），深入了解江戶時代藝術文化。
+### 上午
+* [上野恩賜公園](https://www.google.com/maps/place/Ueno+Park/@35.7147557,139.7734312,17z/data=!3m1!5s0x60188e9ee7ed7ea7:0x3257cebc08ffd60!4m6!3m5!1s0x60188e9b45906ac3:0xb1cb3623124e645a!8m2!3d35.7147557!4d139.7734312!16zL20vMDJ5NWdk!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=c741055f-29d6-4d31-91d2-96a9c7a2bb8b)
+* [不忍池](https://www.google.com/maps/place/Shinobazu+Pond/@35.7122453,139.7708284,17z/data=!4m6!3m5!1s0x60188c20944ac5a3:0x58638bc622e5b86a!8m2!3d35.7122453!4d139.7708284!16s%2Fm%2F03mb145!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
+* [阿美橫町](https://www.google.com/maps/place/Ameyoko+market/@35.7090028,139.7724372,17z/data=!4m7!3m6!1s0x60188f00af83b787:0x654b0a29a45fcf0a!8m2!3d35.7090028!4d139.7746259!15sCgzpmL_nvo7mqavnlLpaECIO6Zi_576OIOapqyDnlLqSARJ0b3VyaXN0X2F0dHJhY3Rpb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTXROM05wYjB4bkVBReABAPoBBAgAEBM!16s%2Fm%2F0jt2zd3!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=c84f4e2f-2b32-4beb-b614-a2e011d34454)
 
-### 中午 / 下午: 淺草寺與仲見世通
-* [雷門](https://maps.app.goo.gl/UhGftV1dQXFJHJct9)
-* [仲見世商店街](https://maps.app.goo.gl/ZMQoyq37adMAWCNm7)
-* [淺草寺](https://maps.app.goo.gl/FsPjKCAw1JvsydsJ8)/[淺草寺本堂](https://maps.app.goo.gl/wPNYFgbBxuSQ3emW8)
+### 下午: 池袋
+* [Sunshine City (太陽城)](https://www.google.com/maps/place/Sunshine+60/@35.7289709,139.7195415,17z/data=!4m6!3m5!1s0x60188d6f134fd653:0x51eb1d42c77222c2!8m2!3d35.7289709!4d139.7195415!16zL20vMGRzM3lj!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=968a3ebf-c1fa-464c-9540-a8ff464d84b2)
+  * 10am - 8pm
+  * 大型購物中心，包含 Pokémon Center Mega Tokyo (寶可夢中心)、吉卜力橡子共和國等。
+* [Animate 池袋本店](https://www.google.com/maps/place/animate+Ikebukuro+Flagship+Store/@35.7311443,139.7154592,17z/data=!3m1!5s0x60188d6f1705cd87:0x5fb9b0e67c243e4!4m6!3m5!1s0x60188d6f4361458b:0x503df2e68ddac61a!8m2!3d35.7311443!4d139.7154592!16s%2Fg%2F1tf70y9x!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=5cc2d3d3-2f3b-4d42-9ac1-091c7f64aee2)
+  * 10am - 9pm
+  * 動漫周邊
 
-### 下午 / 晚上: 晴空塔 & Solamachi
-* [晴空塔](https://maps.app.goo.gl/QV1cXmc48Qp94mnP7)
-* [東京水町 Tokyo Mizumachi](https://maps.app.goo.gl/BQ814PoukkmoUdgj8) (mall)
-* [東京ソラマチ Tokyo Solamachi](https://maps.app.goo.gl/JHjYjLzTGR8Yki1dA) (mall)
+### 傍晚 / 晚上: 東京巨蛋城
+* [東京巨蛋城](https://www.google.com/maps/place/Tokyo+Dome+City/@35.7050088,139.7504909,17z/data=!4m7!3m6!1s0x60188de0411519bb:0xa81b0f31781b587c!8m2!3d35.7053406!4d139.7521112!15sCg90b2t5byBkb21lIGNpdHlaESIPdG9reW8gZG9tZSBjaXR5kgESdG91cmlzdF9hdHRyYWN0aW9umgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJ1TVZCVFEwZFJFQUXgAQD6AQQIABBF!16zL20vMDhieG5s?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=0e8914ff-dc78-4b12-a1ac-8b84a878b317)
+  * 名偵探柯南廣場 (11:00 - 19:00)
+
+
+::: {.callout-note collapse="true"}
+#### 秋葉原
+* [秋葉原ラジオ会館 Radio Kaikan](https://www.google.com/maps/place/Akihabara+Radio+Kaikan/@35.6979149,139.7719571,17z/data=!3m1!5s0x60188c1d4ec7e8c5:0x9989080d519c68c4!4m6!3m5!1s0x60188eac7580ffff:0x30cd29f7c28f41e8!8m2!3d35.6979149!4d139.7719571!16s%2Fg%2F1w0p5mcn!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=8ed811ef-288f-414a-8ea7-e652f5557cd3) (10am - 8pm)
+* [Yodobashi Akiba](https://www.google.com/maps/place/Yodobashi+Akiba/@35.698917,139.774798,17z/data=!4m6!3m5!1s0x60188ea7d9cc4f19:0x7bb917c6708b7376!8m2!3d35.698917!4d139.774798!16s%2Fg%2F120s70qs!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=89fb2073-f4ec-434c-8eb6-c8de6ac7480a) (9:30am - 10pm)
+:::

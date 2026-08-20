@@ -14,8 +14,8 @@ format:
   * **去程**: 8/21（五）星宇航空 **JX314** | 09:30 台中 (RMQ) ➔ 14:00 成田 (NRT)
   * **回程**: 9/04（五）星宇航空 **JX315** | 16:30 成田 (NRT) ➔ 19:10 台中 (RMQ)
 * **住宿安排**: 
-  * **8/21 – 8/30（9晚）**: [錦糸町京成 Richmond 飯店](https://maps.app.goo.gl/qkufpqk61i8YrpCH6) (Keisei Richmond Hotel Tokyo Kinshicho)
-  * **8/30 – 9/04（5晚）**: [品川王子大飯店](https://maps.app.goo.gl/3WeCmk6m2uXkhMsb7) (Shinagawa Prince Hotel)
+  * **8/21 – 8/30（9晚）**: [錦糸町京成 Richmond 飯店](https://www.google.com/maps/place/Keisei+Richmond+Hotel+Tokyo+Kinshicho/@35.6936367,139.8123638,17z/data=!3m1!4b1!4m9!3m8!1s0x601888d88d1ab3bd:0x254b91a22fe762a!5m2!4m1!1i2!8m2!3d35.6936367!4d139.8149441!16s%2Fg%2F11nxg6dvvq?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=b2886cee-634f-4466-8502-7977afab5202) (Keisei Richmond Hotel Tokyo Kinshicho)
+  * **8/30 – 9/04（5晚）**: [品川王子大飯店](https://www.google.com/maps/place/Shinagawa+Prince+Hotel/@35.6275701,139.7342431,17z/data=!4m10!3m9!1s0x60188a5760190fa7:0x762af933935909b0!5m2!4m1!1i2!8m2!3d35.627534!4d139.7366216!15sChXlk4Hlt53njovlrZDlpKfpo6_lupdaGiIY5ZOB5bedIOeOi-WtkCDlpKcg6aOv5bqXkgEFaG90ZWyaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnN4V1UweU1VNWllbVJDVkZWU05WWkZlRXBVZW1kNlZVaGtVRkpGUlJBQuABAPoBBAgAEBQ!16s%2Fg%2F12221t91?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=e9996202-2708-4403-8a39-5aa6c5841151) (Shinagawa Prince Hotel)
 
 ---
 
@@ -33,10 +33,10 @@ format:
 | **8/21** | 五 | 1. 抵達東京（JX314 09:30-14:00 | [查看行程](tokyo0821.qmd) |
 | **8/22** | 六 | 2. 輕井澤一日遊（KKday跟團）| [查看行程](tokyo0822.qmd) |
 | **8/23** | 日 | 3. 伊豆大室山 & 城崎海岸一日遊（KKday跟團）| [查看行程](tokyo0823.qmd) |
-| **8/24** | 一 | 4. 墨田北齋美術館, 淺草, 晴空塔| [查看行程](tokyo0824.qmd) |
-| **8/25** | 二 | 5. 上野, 池袋, 東京巨蛋城, (秋葉原)| [查看行程](tokyo0825.qmd) |
-| **8/26** | 三 | 6. 埼玉川越小江戶一日遊| [查看行程](tokyo0826.qmd) |
-| **8/27** | 四 | 7. 東京站, 皇居, 銀座| [查看行程](tokyo0827.qmd) |
+| **8/24** | 一 | 4. 上野, 池袋, 東京巨蛋城, (秋葉原) | [查看行程](tokyo0824.qmd) |
+| **8/25** | 二 | 5. 墨田北齋美術館, 淺草, 晴空塔 | [查看行程](tokyo0825.qmd) |
+| **8/26** | 三 | 6. 埼玉川越小江戶一日遊 | [查看行程](tokyo0826.qmd) |
+| **8/27** | 四 | 7. 東京站, 皇居, 銀座 | [查看行程](tokyo0827.qmd) |
 | **8/28** | 五 | 8. 原宿, 表參道, 澀谷 | [查看行程](tokyo0828.qmd) |
 | **8/29** | 六 | 9. 高圓寺阿波舞祭典（第一天）| [查看行程](tokyo0829.qmd) |
 | **8/30** | 日 | 10. 飯店轉移（錦糸町 -> 品川王子 | [查看行程](tokyo0830.qmd) |

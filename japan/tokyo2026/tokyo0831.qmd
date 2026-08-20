@@ -11,22 +11,27 @@ format:
 
 ::: {.callout-note collapse="false"}
 ## 每日概要
-* 住宿飯店: [品川王子大飯店](https://maps.app.goo.gl/3WeCmk6m2uXkhMsb7)
+* 住宿飯店: [品川王子大飯店](https://www.google.com/maps/place/Shinagawa+Prince+Hotel/@35.6275701,139.7342431,17z/data=!4m10!3m9!1s0x60188a5760190fa7:0x762af933935909b0!5m2!4m1!1i2!8m2!3d35.627534!4d139.7366216!15sChXlk4Hlt53njovlrZDlpKfpo6_lupdaGiIY5ZOB5bedIOeOi-WtkCDlpKcg6aOv5bqXkgEFaG90ZWyaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnN4V1UweU1VNWllbVJDVkZWU05WWkZlRXBVZW1kNlZVaGtVRkpGUlJBQuABAPoBBAgAEBQ!16s%2Fg%2F12221t91?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=e9996202-2708-4403-8a39-5aa6c5841151)
 * 行程主題: 品川出發直達鎌倉、長谷大佛、江之電與鎌倉高校前平交道
 :::
 
 ## 行程
 
 ### 上午: 品川直達鎌倉
-* 交通: 6:50 [從品川站搭乘 JR 橫須賀線直達鎌倉站](https://maps.app.goo.gl/Mv8mb5rB8qBw8Sh87)（約 1hr，免換車）
-* 08:00 到[鎌倉站](https://maps.app.goo.gl/37fqkXP5FHdeh6Rb7)
+* 交通: 6:50 [從品川站搭乘 JR 橫須賀線直達鎌倉站](https://www.google.com/maps/dir/Shinagawa+Prince+Hotel,+4+Chome-10-30+Takanawa,+Minato+City,+Tokyo+108-8611,+Japan/Kamakura+Station,+1+Chome-15+Onarimachi,+Kamakura,+Kanagawa+248-0012,+Japan/@35.4740973,139.6346195,11z/am=t/data=!4m18!4m17!1m5!1m1!1s0x60188a5760190fa7:0x762af933935909b0!2m2!1d139.7366216!2d35.627534!1m5!1m1!1s0x601845c22a4f73df:0xc7e93a3e84fb0e0e!2m2!1d139.5506805!2d35.3190125!2m3!6e1!7e2!8j1788163200!3e3?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)（約 1hr，免換車）
+* 08:00 到[鎌倉站](https://www.google.com/maps/place/Kamakura+Station/@35.3190125,139.5506805,17z/data=!3m1!4b1!4m6!3m5!1s0x601845c22a4f73df:0xc7e93a3e84fb0e0e!8m2!3d35.3190125!4d139.5506805!16s%2Fg%2F1tfzb46k?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
 * **搭江之電 Enoden Line (鐮倉 $\leftrightarrow$ 長谷 $\leftrightarrow$ 鎌倉高校前 $\leftrightarrow$ 江之島)**
 
 ### 鎌倉 & 江之島精華景點
-* 北鎌倉 / [鶴岡八幡宮](https://maps.app.goo.gl/DPYkrhbqaJYCU3NS8) / [小町通](https://maps.app.goo.gl/kvHpdxQDZ7i5nTEh6): 感受古都歷史氛圍與特色小吃。
-* [長谷寺](https://maps.app.goo.gl/bMuU1H17kEQBqhAb9) & [鎌倉大佛](https://maps.app.goo.gl/KUEyczsF2eGwV4rq7): 參觀高德院大佛與長谷寺海景。
-* [鎌倉高校前](https://maps.app.goo.gl/kb6Tjo5fUhsrHkjy9): 灌籃高手平交道景點與湘南海岸風光。
-* [江之島](https://maps.app.goo.gl/FCiVfE7ZaL1TVmDW6): 老街散步、[江島神社](https://maps.app.goo.gl/rCQAE5p18bvUzMCw6)看夕陽落日。
+* 北鎌倉 / [鶴岡八幡宮](https://www.google.com/maps/place/Tsurugaoka+Hachiman-gu/@35.3358115,139.5502049,15z/data=!3m1!5s0x601845b87972ba87:0x226ac39ed1633d99!4m6!3m5!1s0x601845b87890aa89:0xa867ad10105036b5!8m2!3d35.3259856!4d139.5563462!16zL20vMDVtZjhx?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) / [小町通](https://www.google.com/maps/place/Komachi+St,+Kamakura,+Kanagawa,+Japan/@35.3222668,139.5526999,17z/data=!4m6!3m5!1s0x601845c3adf316fb:0x3fd2da075f503fd8!8m2!3d35.3222668!4d139.5526999!16s%2Fg%2F11fkssrpp1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
+  * 感受古都歷史氛圍與特色小吃。
+* [長谷寺](https://www.google.com/maps/place/Hase-dera/@35.3124791,139.5331106,17z/data=!4m6!3m5!1s0x601845f4077127d5:0x57eb6150baf7add1!8m2!3d35.3124791!4d139.5331106!16zL20vMDg1OXFw?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) & [鎌倉大佛](https://www.google.com/maps/place/Kotoku-in/@35.3168145,139.5357442,17z/data=!4m6!3m5!1s0x601845f2df49bc05:0x1ec393b02d6bef4c!8m2!3d35.3168145!4d139.5357442!16s%2Fg%2F11c2pcz953?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
+  * 參觀高德院大佛與長谷寺海景。
+* [鎌倉高校前](https://www.google.com/maps/place/Kamakurakōkō-Mae+Station/@35.3067242,139.5005569,17z/data=!4m6!3m5!1s0x60184f16e67c1621:0x1941385abcdafc7d!8m2!3d35.3067242!4d139.5005569!16s%2Fm%2F02vnkjw?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
+  * 灌籃高手平交道景點與湘南海岸風光。
+* [江之島](https://www.google.com/maps/place/Enoshima,+Fujisawa,+Kanagawa+251-0036,+Japan/@35.3011466,139.4809934,15z/data=!4m6!3m5!1s0x60184ee6a0890aa5:0x4fe5988514a5aec!8m2!3d35.2990992!4d139.4809269!16zL20vMDF0MGNx?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D): 
+  * 老街散步
+  * [江島神社](https://www.google.com/maps/place/Enoshima+Shrine+Hetsumiya/@35.3003785,139.477771,17z/data=!4m7!3m6!1s0x60184ee42ebf95c5:0xfa7d72e70c9a705f!8m2!3d35.3003664!4d139.4795955!15sCgzmsZ_ls7bnpZ7npL5aDyIN5rGf5bO2IOelnuekvpIBDXNoaW50b19zaHJpbmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTndjbGxwVFVOM0VBReABAPoBBAgdECQ!16s%2Fm%2F0vxdgy4?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=eb3c567b-4a5c-48c0-8a38-8f7f17fa295a)看夕陽落日。
 
 ### 晚上: 返抵品川
 * 從江之島/藤澤搭乘 JR 橫須賀線/東海道線直達品川站。 (10點前回去)

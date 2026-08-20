@@ -11,24 +11,23 @@ format:
 
 ::: {.callout-note collapse="false"}
 ## 每日概要
-* 住宿飯店: [品川王子大飯店](https://maps.app.goo.gl/3WeCmk6m2uXkhMsb7)
+* 住宿飯店: [品川王子大飯店](https://www.google.com/maps/place/Shinagawa+Prince+Hotel/@35.6275701,139.7342431,17z/data=!4m10!3m9!1s0x60188a5760190fa7:0x762af933935909b0!5m2!4m1!1i2!8m2!3d35.627534!4d139.7366216!15sChXlk4Hlt53njovlrZDlpKfpo6_lupdaGiIY5ZOB5bedIOeOi-WtkCDlpKcg6aOv5bqXkgEFaG90ZWyaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnN4V1UweU1VNWllbVJDVkZWU05WWkZlRXBVZW1kNlZVaGtVRkpGUlJBQuABAPoBBAgAEBQ!16s%2Fg%2F12221t91?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=e9996202-2708-4403-8a39-5aa6c5841151)
 * 行程主題: 東京都廳第一本廳展望台、新宿/東京車站最後採買與行李整理
 :::
 
 
 ## 行程
 
-### 11 am [東京都庁第一本庁舎32階職員食堂](https://maps.app.goo.gl/mJAwmru3zqZJkJ658) (11am - 2pm)
+### 11 am [東京都庁第一本庁舎32階職員食堂](https://www.google.com/maps/place/Tokyo+Metropolitan+Government+Building+No.+1+32nd+Floor+Staff+Cafeteria/@35.6895014,139.6895038,17z/data=!3m1!5s0x6018f6bde8d17a73:0x1195067a93490f79!4m7!3m6!1s0x60188cd4b71a37a1:0x384bb51404cb57f7!8m2!3d35.6895014!4d139.6916925!15sChjmnbHkuqzpg73lu7PnrKzkuIDmnKzlu7NaICIe5p2x5LqsIOmDvSDlu7Mg56ysIOS4gCDmnKwg5buzkgEgY2FzdWFsX2phcGFuZXNlX3N0eWxlX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnVNbDl1WVZabkVBReABAPoBBQidARAV!16s%2Fg%2F12qgc5g15?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=220d0bb6-0b9f-4959-a856-4b74ea2573ec) (11am - 2pm)
 * 景點亮點: 
   * [https://www.gotokyo.org/tc/spot/74/index.html](https://www.gotokyo.org/tc/spot/74/index.html)
   * 由丹下健三設計的雙塔標誌性建築。
   * 登上 45 樓免費「北展望室/南展望室」，俯瞰新宿高樓群與東京都心景觀（天氣好時可遠眺富士山）。
 
-### 下午: [新宿](https://maps.app.goo.gl/Q6AjY37CDrUJEFqj6) / 東京車站伴手禮採買
-* 行程: [新宿伊勢丹](https://maps.app.goo.gl/jdtz3X2RH8J4KNMK7)、Bic Camera 採買藥妝電器，或至[東京車站一番街](https://maps.app.goo.gl/ukFE36E69L8kUCPY7)補齊伴手禮與文具。
-
-### 傍晚: 品川 ecute & Wing 高輪購物
-* 景點: 品川站內 [ecute 品川購物商場](https://maps.app.goo.gl/MyniNoFdsaY8PR8T8)，購買各式東京限定甜點與便當。
+### 下午: [新宿](https://www.google.com/maps/place/Shinjuku+City,+Tokyo,+Japan/@35.7015889,139.7091973,13z/data=!4m6!3m5!1s0x60188d2059b7fd4b:0xec61c68fe232efd2!8m2!3d35.6938253!4d139.7033559!16zL20vMDEyeGoy?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) / 伴手禮採買
+* [新宿伊勢丹](https://www.google.com/maps/place/Isetan+Shinjuku/@35.691574,139.7046466,17z/data=!3m1!5s0x60188cdbba93fca1:0x6a4d3d03b715d740!4m6!3m5!1s0x60188cdba56b3bf7:0x8b741cc73341edb5!8m2!3d35.691574!4d139.7046466!16s%2Fg%2F11cjk548y6?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) (10am - 8pm)、Bic Camera 採買藥妝電器
+* [東京車站一番街](https://www.google.com/maps/place/First+Avenue+Tokyo+Station/@35.6822889,139.7684903,17z/data=!3m1!5s0x60188bfbd91993eb:0xc9da05c5e162fa6a!4m6!3m5!1s0x60188bfc40f10f69:0x30bde288c0edfb04!8m2!3d35.6822889!4d139.7684903!16s%2Fg%2F11bwkdv71d?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) (10am - 8:30pm)補齊伴手禮與文具。
+* 品川站內 [ecute 品川購物商場](https://www.google.com/maps/place/ecute+Shinagawa/@35.6285804,139.7394122,17z/data=!3m1!5s0x60188a5a7a6d06ed:0x7a0e1c738ff9b236!4m6!3m5!1s0x60188a5a63126889:0x54a7a1aeee962885!8m2!3d35.6285804!4d139.7394122!16s%2Fg%2F1v_z49l0?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) (8am - 10pm)，購買各式東京限定甜點與便當。
 
 ### 晚上: 品川王子飯店打包行李
 * 回飯店整理行李、確認護照與明日返程機票憑證。

@@ -1,5 +1,5 @@
 ---
-title: "Day 05 上野, 池袋, 東京巨蛋城, (秋葉原)"
+title: "Day 05 墨田北齋美術館, 淺草, 晴空塔"
 date: "2026-08-25"
 date-format: "MMM D, YYYY (ddd)"
 format:
@@ -11,29 +11,25 @@ format:
 
 ::: {.callout-note collapse="false"}
 ## 每日概要
-* 住宿飯店: [錦糸町京成 Richmond 飯店](https://maps.app.goo.gl/qkufpqk61i8YrpCH6)
-* 行程主題: 上野公園 阿美橫町 池袋動漫商圈 秋葉原電器
+* 住宿飯店: [錦糸町京成 Richmond 飯店](https://www.google.com/maps/place/Keisei+Richmond+Hotel+Tokyo+Kinshicho/@35.6936367,139.8123638,17z/data=!3m1!4b1!4m9!3m8!1s0x601888d88d1ab3bd:0x254b91a22fe762a!5m2!4m1!1i2!8m2!3d35.6936367!4d139.8149441!16s%2Fg%2F11nxg6dvvq?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=b2886cee-634f-4466-8502-7977afab5202)
+* 行程主題: 墨田北齋美術館浮世繪、淺草寺、東京晴空塔觀景與押上購物
 :::
 
 
 ## 行程
 
-### 上午
-* [上野恩賜公園](https://maps.app.goo.gl/dgjfL14aBUQjaFdF7)
-* [不忍池](https://maps.app.goo.gl/BLkya7J38uvee7S27)
-* [阿美橫町](https://maps.app.goo.gl/6qBbVyHir4fz8SNJA)
+### 上午: [墨田北齋美術館](https://www.google.com/maps/place/The+Sumida+Hokusai+Museum/@35.6963313,139.800414,17z/data=!3m1!4b1!4m6!3m5!1s0x60188933b7d31881:0x7a02011fb48182aa!8m2!3d35.6963313!4d139.800414!16s%2Fg%2F1pzpdhfkx!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=d36fd582-2cb5-4f5b-b609-d76dd47fa0d2)
+* 9:30am - 5:30pm, 週一公休
+* 景點亮點: 
+  * 建築名家妹島和世設計的極簡銀色幾何建築外觀。
+  * 展出葛飾北齋經典浮世繪作品（如《富嶽三十六景》），深入了解江戶時代藝術文化。
 
-### 下午: 池袋
-* [Sunshine City (太陽城)](https://maps.app.goo.gl/UGVL482gXwsfHFxs9): 大型購物中心，包含 Pokémon Center Mega Tokyo (寶可夢中心)、吉卜力橡子共和國等。
-* [Animate 池袋本店](https://maps.app.goo.gl/DKPzgKATJJPump239): 體驗流行次文化與購物。
+### 中午 / 下午: 淺草寺與仲見世通
+* [雷門](https://www.google.com/maps/place/Kaminarimon+Gate/@35.7111163,139.7963656,16z/data=!3m1!5s0x60188ec7317b39ad:0x328c7121f66ac5b5!4m6!3m5!1s0x60188ec6db068cd1:0xd9a856805c8012bd!8m2!3d35.7111163!4d139.7963656!16s%2Fm%2F03wc6qd!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=8c6b89f5-bd55-467a-b99d-891da395a6e9)
+* [仲見世商店街](https://www.google.com/maps/place/Nakamise+Shopping+Street/@35.7118413,139.7964542,16z/data=!4m6!3m5!1s0x60188ec130fbdd3d:0x5135221a7fa19dbc!8m2!3d35.7118413!4d139.7964542!16s%2Fg%2F11rg73mbfv!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=d231875d-7f88-4b6b-9fba-4ae0cdbd85f2) (10am - 5pm)
+* [淺草寺](https://www.google.com/maps/place/Sensō-ji/@35.7147651,139.7944666,17z/data=!4m7!3m6!1s0x60188ec1a4463df1:0x6c0d289a8292810d!8m2!3d35.7147651!4d139.7966553!15sCg_mt7rojYnlr7rmnKzloIJaEyIR5re66I2JIOWvuiDmnKzloIKSAQ9idWRkaGlzdF90ZW1wbGWaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnBDVDJRelJtbFdhMVpFWTBVMVJrMVdjRWRYVldSNlpVaGFlbE5ZWXhBQuABAPoBBAgAEBA!16zL20vMDNrOTg3!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=1fd16841-3a8e-4d64-bfae-dcd903344190)/[淺草寺本堂](https://www.google.com/maps/place/Senso-ji+Hondo/@35.7145502,139.7945334,17z/data=!4m7!3m6!1s0x60188f64c6dbee8f:0xd1230223d90706d2!8m2!3d35.7145502!4d139.7967221!15sCg_mt7rojYnlr7rmnKzloIJaEyIR5re66I2JIOWvuiDmnKzloIKSAQ9idWRkaGlzdF90ZW1wbGWaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjF6TkZkSVFrcFdSV2g2WVcwNWVHRnFiRVZYYW1oSVRWWndkR1ZJWXhBQuABAPoBBAgAEA0!16s%2Fg%2F11v9_yxdt_!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=90d25b68-7de0-418e-81f6-f4d7ef9f2bab) (6am - 6pm)
 
-### 傍晚 / 晚上: 東京巨蛋城
-* [東京巨蛋城](https://maps.app.goo.gl/A7Hu34Uaj73bKCzi7)
-  * 名偵探柯南廣場 (11:00 - 19:00)
-
-
-::: {.callout-note collapse="true"}
-#### 秋葉原
-* [秋葉原ラジオ会館 Radio Kaikan](https://maps.app.goo.gl/HGs2Xr4uPDkuF5VU7)
-* [Yodobashi Akiba](https://maps.app.goo.gl/qbidCm76F5v1JwKH9)
-:::
+### 下午 / 晚上: 晴空塔 & Solamachi
+* [晴空塔](https://www.google.com/maps/place/Tokyo+Skytree/@35.7100627,139.8107004,17z/data=!3m1!5s0x60188ed65efdab8f:0x73c3daecfb7877f2!4m6!3m5!1s0x60188ed0d12f9adf:0x7d1d4fb31f43f72a!8m2!3d35.7100627!4d139.8107004!16zL20vMDd0aGty!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=e5e064dc-2d97-413b-8238-3f0b3e3999d7) (10am - 10pm)
+* [東京水町 Tokyo Mizumachi](https://www.google.com/maps/place/Tokyo+Mizumachi/@35.7110932,139.8036013,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec539cdd833:0xada28cbe0474530!8m2!3d35.7110932!4d139.8036013!16s%2Fg%2F11ft8y6ms1!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=5bae5da3-523a-49c6-9219-1fe5429e4713) (mall, 10am - 9pm)
+* [東京ソラマチ Tokyo Solamachi](https://www.google.com/maps/place/Tokyo+Solamachi/@35.7102333,139.8115747,17z/data=!3m2!4b1!5s0x60188ed65efdab8f:0x73c3daecfb7877f2!4m6!3m5!1s0x60188ed6f9ddd30f:0x918ba47a310c8809!8m2!3d35.7102333!4d139.8115747!16s%2Fm%2F0ndslbg!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDgxNy4wIPu8ASoASAFQAw%3D%3D&skid=ab0f5712-e3eb-4fea-a9ce-b3712926c9ee) (mall, 10am - 9pm)

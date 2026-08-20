@@ -11,7 +11,7 @@ format:
 
 ::: {.callout-note collapse="false"}
 ## 每日概要
-* 住宿飯店: [錦糸町京成 Richmond 飯店](https://maps.app.goo.gl/qkufpqk61i8YrpCH6)
+* 住宿飯店: [錦糸町京成 Richmond 飯店](https://www.google.com/maps/place/Keisei+Richmond+Hotel+Tokyo+Kinshicho/@35.6936367,139.8123638,17z/data=!3m1!4b1!4m9!3m8!1s0x601888d88d1ab3bd:0x254b91a22fe762a!5m2!4m1!1i2!8m2!3d35.6936367!4d139.8149441!16s%2Fg%2F11nxg6dvvq?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=b2886cee-634f-4466-8502-7977afab5202)
 * 行程主題: 東京夏季祭典高圓寺阿波舞盛會
 :::
 
@@ -22,10 +22,10 @@ format:
 * 行程: 錦糸町周邊吃早餐，享用飯店設施與周邊咖啡館。
 
 ### 下午 14:30 提早抵達: 高圓寺商店街
-* [這裡](https://maps.app.goo.gl/FP7rhV5crV6w9V6GA)
-* 重要建議: 阿波舞祭典吸引大量人潮，15:00 後周邊道路管制的區域極為擁擠。建議 14:30 前抵達高圓寺: 
-  * 逛[高圓寺純情商店街](https://maps.app.goo.gl/FP7rhV5crV6w9V6GA)、[PAL商店街](https://maps.app.goo.gl/CEvPqa5P12V7UBFo7)與古著店。
+* [高圓寺純情商店街](https://www.google.com/maps/place/Junjō+Shōtengai+-Pure+Heart+Shopping+Street-/@35.7060278,139.6475071,17z/data=!3m1!5s0x6018f27d87c59c49:0x20c27ceb2ec1bb20!4m6!3m5!1s0x6018f27d8e4b83d7:0x938ae61b4dd025f2!8m2!3d35.7060278!4d139.6496958!16s%2Fg%2F11bx9p99qm?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
+  * 重要建議: 阿波舞祭典吸引大量人潮，15:00 後周邊道路管制的區域極為擁擠。建議 14:30 前抵達高圓寺: 
   * 提前購買街邊屋台小吃、飲料與餐點選好位置。
+* [PAL商店街](https://www.google.com/maps/place/Koenji+Pal+Shopping+Street/@35.7050308,139.649209,17z/data=!4m6!3m5!1s0x6018f27d726390df:0x6049f8a3bc4a3992!8m2!3d35.7050308!4d139.649209!16s%2Fg%2F11f2tzsz1n?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=69f07124-edc4-4f05-8488-1e981aa74abe)與古著店。
 
 ### 17:00 – 20:00: 高圓寺阿波舞重頭戲
 * 活動: 上萬名舞者與樂手於各大演舞場進行大巡遊表演，感受熱烈的日本傳統夏季祭典氛圍。

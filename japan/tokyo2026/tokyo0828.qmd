@@ -11,7 +11,7 @@ format:
 
 ::: {.callout-note collapse="false"}
 ## 每日概要
-* 住宿飯店: [錦糸町京成 Richmond 飯店](https://maps.app.goo.gl/qkufpqk61i8YrpCH6)
+* 住宿飯店: [錦糸町京成 Richmond 飯店](https://www.google.com/maps/place/Keisei+Richmond+Hotel+Tokyo+Kinshicho/@35.6936367,139.8123638,17z/data=!3m1!4b1!4m9!3m8!1s0x601888d88d1ab3bd:0x254b91a22fe762a!5m2!4m1!1i2!8m2!3d35.6936367!4d139.8149441!16s%2Fg%2F11nxg6dvvq?entry=tts&g_ep=EgoyMDI2MDgxMi4wIPu8ASoASAFQAw%3D%3D&skid=b2886cee-634f-4466-8502-7977afab5202)
 * 行程主題: 明治神宮、原宿竹下通、表參道大師建築與澀谷高空夜景
 :::
 
