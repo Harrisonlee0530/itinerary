@@ -27,6 +27,8 @@ format:
   * 感受古都歷史氛圍與特色小吃。
 * [長谷寺](https://www.google.com/maps/place/Hase-dera/@35.3124791,139.5331106,17z/data=!4m6!3m5!1s0x601845f4077127d5:0x57eb6150baf7add1!8m2!3d35.3124791!4d139.5331106!16zL20vMDg1OXFw?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) & [鎌倉大佛](https://www.google.com/maps/place/Kotoku-in/@35.3168145,139.5357442,17z/data=!4m6!3m5!1s0x601845f2df49bc05:0x1ec393b02d6bef4c!8m2!3d35.3168145!4d139.5357442!16s%2Fg%2F11c2pcz953?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
   * 參觀高德院大佛與長谷寺海景。
+* [七里ヶ浜](https://www.google.com/maps/place/Shichirigahama/@35.3047793,139.4901009,14z/data=!3m1!4b1!4m6!3m5!1s0x60184f411ab568c3:0xb115c09fb766bf57!8m2!3d35.3047816!4d139.5107434!16s%2Fg%2F11hdz9y0rf?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
+  * 可能可以拍到富士山 (機會 $<10\%$)
 * [鎌倉高校前](https://www.google.com/maps/place/Kamakurakōkō-Mae+Station/@35.3067242,139.5005569,17z/data=!4m6!3m5!1s0x60184f16e67c1621:0x1941385abcdafc7d!8m2!3d35.3067242!4d139.5005569!16s%2Fm%2F02vnkjw?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)
   * 灌籃高手平交道景點與湘南海岸風光。
 * [江之島](https://www.google.com/maps/place/Enoshima,+Fujisawa,+Kanagawa+251-0036,+Japan/@35.3011466,139.4809934,15z/data=!4m6!3m5!1s0x60184ee6a0890aa5:0x4fe5988514a5aec!8m2!3d35.2990992!4d139.4809269!16zL20vMDF0MGNx?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D): 
