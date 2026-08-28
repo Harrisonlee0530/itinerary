@@ -32,5 +32,7 @@ format:
 * 返回品川王子辦理 Check-in 入住。
 * [MoN 高輪](https://www.google.com/maps/place/MoN+Takanawa:The+Museum+of+Narratives/@35.6396988,139.7392429,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b47f5754987:0xf4b17479dd0b37a5!8m2!3d35.6396988!4d139.7418178!16s%2Fg%2F11yb70qgj2?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D) (10am - 9pm)
   * 博物館, [官網](https://montakanawa.jp/zh-CHT/)
+* [Takanawa Gateway City](https://www.google.com/maps/place/Takanawa+Gateway+City/@35.6386554,139.738331,15.94z/data=!3m1!5s0x60188bad4c9c58bd:0x93d27e62fa3fae2!4m14!1m7!3m6!1s0x60188b47f5754987:0xf4b17479dd0b37a5!2sMoN+Takanawa:The+Museum+of+Narratives!8m2!3d35.6396988!4d139.7418178!16s%2Fg%2F11yb70qgj2!3m5!1s0x60188beb84eeb89d:0xc7c2a1f47c9f3d09!8m2!3d35.6357222!4d139.7402139!16s%2Fg%2F11l22ld42j?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 * [NEWoMan 高輪](https://www.google.com/maps/place/NEWoMan+TAKANAWA/@35.6348851,139.7394808,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b007d8eedfb:0x1da733ac28f7b737!8m2!3d35.6348851!4d139.7394808!16s%2Fg%2F11x0gh_lnx!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) (11am - 8pm)
+
 * 逛品川站內 [ecute 品川購物商場](https://www.google.com/maps/place/ecute+Shinagawa/@35.6285804,139.7394122,17z/data=!3m1!5s0x60188a5a7a6d06ed:0x7a0e1c738ff9b236!4m6!3m5!1s0x60188a5a63126889:0x54a7a1aeee962885!8m2!3d35.6285804!4d139.7394122!16s%2Fg%2F1v_z49l0?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)與美食街。
